@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>glossamu</title>
+    <link href="https://glossamu.github.io/feed.xml" rel="self" />
+    <link href="https://glossamu.github.io" />
+    <updated>2024-07-07T11:50:22+02:00</updated>
+    <author>
+        <name>Kigo</name>
+    </author>
+    <id>https://glossamu.github.io</id>
+
+    <entry>
+        <title>Mungu ni mwema kila wakati</title>
+        <author>
+            <name>Kigo</name>
+        </author>
+        <link href="https://glossamu.github.io/mungu-ni-mwema-kila-wakati.html"/>
+        <id>https://glossamu.github.io/mungu-ni-mwema-kila-wakati.html</id>
+
+        <updated>2024-07-07T11:50:22+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Kila wakati Mungu ni mwema.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Kila wakati Mungu ni mwema.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

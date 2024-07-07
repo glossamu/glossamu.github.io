@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://glossamu.github.io/sitemap.xml
