@@ -3,7 +3,7 @@
     <title>Nie wieder leise</title>
     <link href="https://glossamu.github.io/feed.xml" rel="self" />
     <link href="https://glossamu.github.io" />
-    <updated>2024-08-11T16:21:53+02:00</updated>
+    <updated>2024-08-11T16:24:02+02:00</updated>
     <author>
         <name>Kigo</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://glossamu.github.io/schwarze-bewusstwerdung.html"/>
         <id>https://glossamu.github.io/schwarze-bewusstwerdung.html</id>
+            <category term="Schwarze Bewusstwerdung"/>
 
         <updated>2024-08-11T16:21:53+02:00</updated>
             <summary>
