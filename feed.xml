@@ -3,12 +3,35 @@
     <title>Nie wieder leise</title>
     <link href="https://glossamu.github.io/feed.xml" rel="self" />
     <link href="https://glossamu.github.io" />
-    <updated>2024-09-02T14:03:38+02:00</updated>
+    <updated>2024-09-02T14:17:28+02:00</updated>
     <author>
         <name>Kigo</name>
     </author>
     <id>https://glossamu.github.io</id>
 
+    <entry>
+        <title>Zitat </title>
+        <author>
+            <name>Kigo</name>
+        </author>
+        <link href="https://glossamu.github.io/zitat.html"/>
+        <id>https://glossamu.github.io/zitat.html</id>
+            <category term="3.2 Sichtbarkeit durch Artikulation"/>
+
+        <updated>2024-09-02T14:17:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Ich war so lange leise. Betonung auf war
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p>Ich war so lange leise. Betonung auf war</p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>3.2.1 Stummgeschaltetes Schweigen </title>
         <author>
@@ -16,6 +39,7 @@
         </author>
         <link href="https://glossamu.github.io/321-stummgeschaltetes-schweigen.html"/>
         <id>https://glossamu.github.io/321-stummgeschaltetes-schweigen.html</id>
+            <category term="3.2 Sichtbarkeit durch Artikulation"/>
 
         <updated>2024-09-02T14:03:38+02:00</updated>
             <summary>
@@ -40,6 +64,7 @@
         </author>
         <link href="https://glossamu.github.io/322-die-bedeutung-von-narrativen-und-kollektivem-gedaechtnis.html"/>
         <id>https://glossamu.github.io/322-die-bedeutung-von-narrativen-und-kollektivem-gedaechtnis.html</id>
+            <category term="3.2 Sichtbarkeit durch Artikulation"/>
 
         <updated>2024-09-02T13:44:15+02:00</updated>
             <summary>
@@ -56,13 +81,13 @@
         </content>
     </entry>
     <entry>
-        <title>Instrumente der Befreiung</title>
+        <title>3.2.3 Instrumente der Befreiung</title>
         <author>
             <name>Kigo</name>
         </author>
         <link href="https://glossamu.github.io/instrumente-der-befreiung.html"/>
         <id>https://glossamu.github.io/instrumente-der-befreiung.html</id>
-            <category term="Sichtbarkeit durch Artikulation"/>
+            <category term="3.2 Sichtbarkeit durch Artikulation"/>
 
         <updated>2024-09-02T13:33:21+02:00</updated>
             <summary>
@@ -81,13 +106,13 @@
         </content>
     </entry>
     <entry>
-        <title>Musik und Identität</title>
+        <title>3.2.4 Musik und Identität</title>
         <author>
             <name>Kigo</name>
         </author>
         <link href="https://glossamu.github.io/musik-und-identitaet.html"/>
         <id>https://glossamu.github.io/musik-und-identitaet.html</id>
-            <category term="Sichtbarkeit durch Artikulation"/>
+            <category term="3.2 Sichtbarkeit durch Artikulation"/>
 
         <updated>2024-09-02T13:30:31+02:00</updated>
             <summary>
